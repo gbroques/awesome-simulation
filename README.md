@@ -34,9 +34,11 @@ There are two basic kinds of simulation[<sup>1</sup>][1]:
 
 ## Websites
 * [University of Baltimore: Modeling and Simulation](http://home.ubalt.edu/ntsbarsh/simulation/sim.htm)
+* [NIH: Computer Modeling and Simulation](https://www.ors.od.nih.gov/OD/OQM/cms/Pages/default.aspx)
 
 ## Books
 * [Modeling and Simulation in Python](https://github.com/AllenDowney/ModSimPy) - introduction to physical modeling using a computational approach.
+* [Discrete-Event System Simulation, Jerry Banks](https://www.amazon.com/Discrete-Event-System-Simulation-Jerry-Banks/dp/0136062121)
 
 ## Videos
 * [SimPY YouTube Playlist](https://www.youtube.com/playlist?list=PL2Wg3oyN-jmMD39JFqejZAzi06BWo_uJa)
