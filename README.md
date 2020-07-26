@@ -6,6 +6,7 @@ Repository curating different resources for simulation.
 
 * [Motivation](#motivation)
 * [Basics](#basics)
+* [Articles](#articles)
 * [Books](#books)
 
 ## Motivation
@@ -24,6 +25,9 @@ specific study objectives[<sup>2</sup>][2].
 There are two basic kinds of simulation[<sup>1</sup>][1]:
 * **event-driven simulation** - change of state within the simulation model occurs after an incidence of an event.
 * **time-driven simulation** - change of state occurs after fixed time slices.
+
+## Articles
+* [Wikipedia: Modeling and simulation](https://en.wikipedia.org/wiki/Modeling_and_simulation)
 
 ## Books
 * [Modeling and Simulation in Python](https://github.com/AllenDowney/ModSimPy) - introduction to physical modeling using a computational approach.
