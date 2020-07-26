@@ -10,7 +10,7 @@ Repository curating different resources for simulation.
 * [Websites](#websites)
 * [Books](#books)
 * [Videos](#videos)
-* [Massive Open Online Courses (MOOCs)](#massive-open-online-courses-moocs)
+* [MOOCs](#moocs)
 
 ## Motivation
 With simulation, we can study[<sup>1</sup>][1]:
@@ -41,7 +41,8 @@ There are two basic kinds of simulation[<sup>1</sup>][1]:
 ## Videos
 * [SimPY YouTube Playlist](https://www.youtube.com/playlist?list=PL2Wg3oyN-jmMD39JFqejZAzi06BWo_uJa)
 
-## Massive Open Online Courses (MOOCs)
+## MOOCs
+(*Massive Open Online Courses*)
 * [Coursera: Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
 
 [banner]: ./gas-cloud-simulation.jpg "https://www.flickr.com/photos/esoastronomy/6777335390"
