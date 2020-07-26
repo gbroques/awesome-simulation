@@ -2,7 +2,7 @@
 
 ![European Southern Observatory: Simulation of gas cloud after close approach to the black hole at the centre of the Milky Way][banner]
 
-Repository curating different resources for simulation.
+*Awesome* 🕶️ list of resources for simulation.
 
 * [Motivation](#motivation)
 * [Basics](#basics)
