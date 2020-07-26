@@ -7,6 +7,7 @@
 * [Motivation](#motivation)
 * [Basics](#basics)
 * [Articles](#articles)
+* [Papers](#papers)
 * [Websites](#websites)
 * [Books](#books)
 * [Videos](#videos)
@@ -31,6 +32,9 @@ There are two basic kinds of simulation[<sup>1</sup>][1]:
 
 ## Articles
 * [Wikipedia: Modeling and simulation](https://en.wikipedia.org/wiki/Modeling_and_simulation)
+
+## Papers
+* [Introduction to Modeling and Simulation Techniques](https://www.researchgate.net/publication/332962311_Introduction_to_Modeling_and_Simulation_Techniques)
 
 ## Websites
 * [University of Baltimore: Modeling and Simulation](http://home.ubalt.edu/ntsbarsh/simulation/sim.htm)
