@@ -7,7 +7,9 @@ Repository curating different resources for simulation.
 * [Motivation](#motivation)
 * [Basics](#basics)
 * [Articles](#articles)
+* [Websites](#websites)
 * [Books](#books)
+* [Videos](#videos)
 
 ## Motivation
 With simulation, we can study[<sup>1</sup>][1]:
@@ -29,8 +31,14 @@ There are two basic kinds of simulation[<sup>1</sup>][1]:
 ## Articles
 * [Wikipedia: Modeling and simulation](https://en.wikipedia.org/wiki/Modeling_and_simulation)
 
+## Websites
+* [University of Baltimore: Modeling and Simulation](http://home.ubalt.edu/ntsbarsh/simulation/sim.htm)
+
 ## Books
 * [Modeling and Simulation in Python](https://github.com/AllenDowney/ModSimPy) - introduction to physical modeling using a computational approach.
+
+## Videos
+* [SimPY YouTube Playlist](https://www.youtube.com/playlist?list=PL2Wg3oyN-jmMD39JFqejZAzi06BWo_uJa)
 
 [banner]: ./gas-cloud-simulation.jpg "https://www.flickr.com/photos/esoastronomy/6777335390"
 [1]: https://gc21.giz.de/ibt/en/opt/site/ilt/ibt/regionalportale/sadc/inhalt/logistics/module_03/71_basics_of_simulation.html "Basics of Simulation"
