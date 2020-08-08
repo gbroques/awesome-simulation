@@ -12,6 +12,7 @@
 * [Books](#books)
 * [Videos](#videos)
 * [MOOCs](#moocs)
+* [GitHub Repositories](#github-repositories)
 
 ## Motivation
 With simulation, we can study[<sup>1</sup>][1]:
@@ -54,3 +55,13 @@ There are two basic kinds of simulation[<sup>1</sup>][1]:
 [banner]: ./gas-cloud-simulation.jpg "https://www.flickr.com/photos/esoastronomy/6777335390"
 [1]: https://gc21.giz.de/ibt/en/opt/site/ilt/ibt/regionalportale/sadc/inhalt/logistics/module_03/71_basics_of_simulation.html "Basics of Simulation"
 [2]: https://www.informs-sim.org/wsc16papers/007.pdf "THE BASICS OF SIMULATION"
+
+## GitHub Repositories
+
+### Python
+
+* [buds-lab/simple-building](https://github.com/buds-lab/simple-building) - A lightweight building performance simulation engine designed to predict the heating and cooling energy in multi-zone commercial buildings.
+* [brunoknittel/python-epower-simulation](https://github.com/brunoknittel/python-epower-simulation) - Simulator of electricity consumers and producers. Written to answer "what-if" questions before installing solar panels, or other renewable energy source.
+* [FrancoisGallard/pyHouseEnergy](https://github.com/FrancoisGallard/pyHouseEnergy) - A simple python house thermal simulation,
+* [cbaretzky/BuildingEnergySimulation](https://github.com/cbaretzky/BuildingEnergySimulation) - Project to simulate energy flow and storage inside a building.
+* [tsaoyu/D3HRE](https://github.com/tsaoyu/D3HRE) - Data Driven Dynamic Hybrid Renewable Energy (D3HRE) is a software suite to study hybrid renewable energy system on moving platforms. This package enables the simulation, optimisation and management of spatial-temporal hybrid renewable energy system e.g. on ships, airballons and airplanes.
