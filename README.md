@@ -60,6 +60,7 @@ There are two basic kinds of simulation[<sup>1</sup>][1]:
 
 ### Python
 
+* [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) - Python finite-element workflows for mechanics and heat transfer, with command-line project execution and result verification. Uses FEniCSx and requires a local solver installation.
 * [buds-lab/simple-building](https://github.com/buds-lab/simple-building) - A lightweight building performance simulation engine designed to predict the heating and cooling energy in multi-zone commercial buildings.
 * [brunoknittel/python-epower-simulation](https://github.com/brunoknittel/python-epower-simulation) - Simulator of electricity consumers and producers. Written to answer "what-if" questions before installing solar panels, or other renewable energy source.
 * [FrancoisGallard/pyHouseEnergy](https://github.com/FrancoisGallard/pyHouseEnergy) - A simple python house thermal simulation,
